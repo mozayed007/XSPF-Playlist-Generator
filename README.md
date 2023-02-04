@@ -15,5 +15,5 @@ python create_xspf_playlist.py --folder /path/to/folder --playlist /path/to/play
 
 The script takes in two arguments:
 
-- `--folder`:  The path to the folder containing the videos. 
-- `--playlist`:  The path to the XSPF playlist file. 
+- `folder`:  The path to the folder containing the videos. 
+- `playlist`:  The path to the XSPF playlist file. 
